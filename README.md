@@ -1,6 +1,6 @@
 # Flutter Netflix Responsive UI |  Mobile and Web
 
-This is Netflix clone Responsive UI made using Flutter in Dart 
+This is Netflix clone Responsive UI made using Flutter in Dart lang
 
 
 ![Mobile Screenshot 1](screenshots/mobile0.png)
